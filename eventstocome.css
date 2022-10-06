@@ -82,10 +82,6 @@ nav ul li a{
     .sidebar a {font-size: 18px;}
   }
 
-  p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #429E6F;
-  }
   nav{
     display: flex;
     align-items: center;
