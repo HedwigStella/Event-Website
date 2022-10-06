@@ -58,11 +58,11 @@ h2{
 }
 .circle3{
     background-color: rgb(197, 223, 210);
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
     position: relative;
     top: -400px;
-    left: 620px;
+    left: 660px;
     border-radius: 300px;
 }
 .circle4{
@@ -111,12 +111,13 @@ h2{
     border-radius: 300px; 
 }
 .minicircle4{
-    background-color: rgb(232, 77, 77);
+    background-color: white;
     width: 40px;
     height: 40px;
     position: relative;
-    top: -1234px;
-    left: 660px;
+    top: -1254px;
+    left: 690px;
     border-radius: 300px;
 }
+.minic
 
