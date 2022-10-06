@@ -1,5 +1,5 @@
 body{
-    background-color: #ffffff;
+    background-color:#0b2a26;
 }
 #title{
     position: relative;
@@ -28,7 +28,7 @@ nav ul li a{
     font-weight: bold;
     text-transform: capitalize;
     font-size: large;
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: relative;
     top: -70px;
 }
