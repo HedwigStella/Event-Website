@@ -65,4 +65,30 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #429E6F;
   }
+  nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 50px 40px;
+    left: 240px;
+    position: relative;
+}
+nav ul li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: large;
+    font-family: sans-serif;
+    position: relative;
+    top: -70px;
+}
+
  
