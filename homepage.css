@@ -2,26 +2,6 @@ body{
     background-color: #CFBDB4;
 }
 
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 35px;
-    padding-left: 8%;
-    padding-right: 8%;
-}
-nav ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 50px 40px;
-}
-nav ul li a{
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    font-weight: bold;
-    text-transform: capitalize;
-    font-size: large;
-    font-family: sans-serif;}
 
     * {box-sizing:border-box}
 
@@ -109,4 +89,46 @@ nav ul li a{
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+.btn{
+  background-color:#3e342e ;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding:20px 35px;
+  border-radius: 40px;
+  transform: .4s;
+  position: relative;
+  top: -5px;
+  left: 100px;
+}
+nav{
+  background:#a37158;
+  height: 90px;
+  width: 100%;
+}
+label.logo{
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav ul{
+  
+  
+  margin-right: 20px;
+}
+nav ul li{
+
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 55px;
+
+}
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
 }
