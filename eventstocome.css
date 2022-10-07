@@ -1,5 +1,5 @@
 body {
-    background-color: #D4EDE0;
+    background-color: #B8CCCA;
 }
 
 nav{
@@ -16,7 +16,7 @@ nav ul li{
   padding: 50px 40px;
 }
 nav ul li a{
-  color: rgb(0, 0, 0);
+  color: rgb(255, 0, 0);
   text-decoration: none;
   font-weight: bold;
   text-transform: capitalize;
@@ -30,7 +30,7 @@ nav ul li a{
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #B7E1CB ;
+    background-color: #95B2B0 ;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -41,13 +41,13 @@ nav ul li a{
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
-    color: #7EC9A2 ;
+    color: #B8CCCA ;
     display: block;
     transition: 0.3s;
   }
   
   .sidebar a:hover {
-    color: #429E6F ;
+    color: #719895 ;
   }
   
   .sidebar .closebtn {
@@ -61,14 +61,14 @@ nav ul li a{
   .openbtn {
     font-size: 20px;
     cursor: pointer;
-    background-color: #7EC9A2 ;
+    background-color: #719895 ;
     color: white;
     padding: 10px 15px;
     border: none;
   }
   
   .openbtn:hover {
-    background-color: #429E6F ;
+    background-color: #5E827F ;
   }
   
   #main {

@@ -1,3 +1,7 @@
+body {
+    background-color: #4B3830;
+}
+
 nav{
     display: flex;
     align-items: center;
@@ -14,7 +18,7 @@ nav ul li{
     position: relative;
 }
 nav ul li a{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
