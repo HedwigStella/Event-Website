@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 *{
@@ -16,7 +16,7 @@ nav{
   width: 100%;
 }
 label.logo{
-  color: white;
+  color: #6d5951;
   font-size: 35px;
   line-height: 80px;
   padding: 0 100px;
@@ -35,13 +35,13 @@ nav ul li{
  
 }
 nav ul li a{
-  color: white;
+  color: #6d5951;
   font-size: 17px;
   text-transform: uppercase;
 }
 .btn{
-  background-color: #d6bdb2;
-  color: white;
+  background-color: #6d5951;
+  color: #c6aa9e;
   text-decoration: none;
   border: 2px solid transparent;
   font-weight: bold;
@@ -95,7 +95,7 @@ nav ul li a{
   
   /* Some text inside the overlay, which is positioned in the middle vertically and horizontally */
   .text {
-    color: white;
+    color: #6d5951;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: absolute;
