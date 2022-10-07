@@ -1,27 +1,58 @@
 body {
     background-color: #B8CCCA;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+*{
+  padding: 0;
+  margin:0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  position: relative;
+}
+.btn{
+  background-color:#8aa7a5 ;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding:20px 35px;
+  border-radius: 40px;
+  transform: .4s;
+  position: relative;
+  top: -5px;
+  left: 100px;
+}
 nav{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-top: 35px;
-  padding-left: 8%;
-  padding-right: 8%;
+  background:#406865;
+  height: 90px;
+  width: 100%;
+}
+label.logo{
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav ul{
+  
+  
+  margin-right: 20px;
 }
 nav ul li{
-  list-style: none;
+
   display: inline-block;
-  padding: 50px 40px;
+  line-height: 80px;
+  margin: 0 55px;
+
 }
 nav ul li a{
-  color: rgb(255, 0, 0);
-  text-decoration: none;
-  font-weight: bold;
-  text-transform: capitalize;
-  font-size: large;
-  font-family: sans-serif;}
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
 
 .sidebar {
     height: 100%;
@@ -82,30 +113,6 @@ nav ul li a{
     .sidebar a {font-size: 18px;}
   }
 
-  nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 35px;
-    padding-left: 8%;
-    padding-right: 8%;
-}
-nav ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 50px 40px;
-    left: 240px;
-    position: relative;
-}
-nav ul li a{
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    font-weight: bold;
-    text-transform: capitalize;
-    font-size: large;
-    font-family: sans-serif;
-    position: relative;
-    top: -70px;
-}
+ 
 
  
