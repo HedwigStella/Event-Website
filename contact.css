@@ -54,25 +54,130 @@ nav ul li a{
     left: 100px;
 }
 .vierkant{
-    background-color:#d3ebdf;
-    width: 300px;
-    height: 300px;
+    background-color:#b88f6b;
+    width: 280px;
+    height: 280px;
     position: relative;
-    top:100px;
+    top:20px;
     left: 250px;
-    box-shadow: 3px 3px  #97beaa;
     border-radius: 300px;
 }
 .vierkant2{
-    background-color:#cdbbb3;
-    width: 300px;
-    height: 300px;
+    background-color:#eeddd0;
+    width: 280px;
+    height: 280px;
+    position: relative;
+    top: -260px;
+    left: 870px;
+    border-radius: 300px;
+}
+.vierkant3{
+    background-color: #8bb6a0;
+    width: 280px;
+    height: 280px;
     position: relative;
     top: -190px;
-    left: 850px;
-    box-shadow: 3px 3px  #A17C6B;
+    left: 870px;
     border-radius: 300px;
 
 }
-
+.vierkant4{
+    background-color: #16513f;
+    width: 280px;
+    height: 280px;
+    position: relative;
+    top: -480px;
+    left: 260px;
+    border-radius: 300px;
+}
+.vierkant5{
+    background-color:#b3d9c5 ;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -860px;
+    left: 600px;
+    border-radius: 300px;
+}
+.vierkant6{
+    background-color: #ffffff;
+    width: 160px;
+    height: 160px;
+    position: relative;
+    top: -1040px;
+    left: 620px;
+    border-radius: 300px;
+}
+.vierkant7{
+    background-color:#356758 ;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    top: -1185px;
+    left: 635px;
+    border-radius: 300px;
+}
+.vierkant8{
+    background-color:#8bb6a0 ;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -1290px;
+    left: 660px;
+    border-radius: 100px;
+}
+.vierkant9{
+    background-color:#ffffff ;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -1350px;
+    left: 675px;
+    border-radius: 100px;
+}
+.vierkant10{
+    background-color:#b88f6b ;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: -1650px;
+    left:645px;
+    border-radius: 100px;
+}
+.vierkant11{
+    background-color:#ffffff ;
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: -1755px;
+    left:660px;
+    border-radius: 100px;
+}
+.vierkant12{
+    background-color:#eeddd0 ;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: -1835px;
+    left:668px;
+    border-radius: 100px;
+}
+.vierkant13{
+    background-color:#b88f6b ;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -1896px;
+    left:678px;
+    border-radius: 100px;
+}
+.vierkant14{
+    background-color:white ;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: -1936px;
+    left:686px;
+    border-radius: 100px;
+}
 
