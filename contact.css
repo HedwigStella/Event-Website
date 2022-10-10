@@ -90,6 +90,7 @@ nav ul li a{
     left: 260px;
     border-radius: 300px;
 }
+/*middle circle green*/
 .vierkant5{
     background-color:#b3d9c5 ;
     width: 200px;
@@ -135,7 +136,10 @@ nav ul li a{
     left: 675px;
     border-radius: 100px;
 }
-.vierkant10{
+/*end middle circle green*/
+
+/*start beige small circle */
+.vierkant10{ 
     background-color:#b88f6b ;
     width: 120px;
     height: 120px;
@@ -181,3 +185,149 @@ nav ul li a{
     border-radius: 100px;
 }
 
+.vierkant15{
+    background-color:#eeddd0 ;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: -1590px;
+    left:645px;
+    border-radius: 100px;
+}
+.vierkant16{
+    background-color:#ffffff ;
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: -1695px;
+    left:660px;
+    border-radius: 100px;
+}
+.vierkant17{
+    background-color:#b88f6b ;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: -1775px;
+    left:668px;
+    border-radius: 100px;
+}
+.vierkant18{
+        background-color:#eeddd0 ;
+        width: 50px;
+        height: 50px;
+        position: relative;
+        top: -1836px;
+        left:676px;
+        border-radius: 100px;
+    }
+.vierkant19{
+        background-color:white ;
+        width: 30px;
+        height: 30px;
+        position: relative;
+        top: -1875px;
+        left:686px;
+        border-radius: 100px;
+    }
+/*end small circles beige*/
+
+/*start small circles green*/
+.vierkant20{ 
+    background-color:#356758 ;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: -2200px;
+    left:1165px;
+    border-radius: 100px;
+}
+.vierkant21{ 
+    background-color:white;
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: -2305px;
+    left:1180px;
+    border-radius: 100px;
+}
+.vierkant22{ 
+    background-color:#b3d9c5;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: -2385px;
+    left:1190px;
+    border-radius: 100px;
+}
+.vierkant23{ 
+    background-color:#356758;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -2445px;
+    left:1200px;
+    border-radius: 100px;
+}
+.vierkant24{ 
+    background-color:white;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: -2485px;
+    left:1211px;
+    border-radius: 100px;
+}
+.vierkant25{
+    background-color:#b3d9c5;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: -2550px;
+    left:111px;
+    border-radius: 100px
+}
+.vierkant26{
+    background-color:white;
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: -2656px;
+    left:125px;
+    border-radius: 100px
+}
+.vierkant27{
+    background-color:#356758;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: -2736px;
+    left:135px;
+    border-radius: 100px
+}
+.vierkant28{
+    background-color:#b3d9c5;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -2798px;
+    left:145px;
+    border-radius: 100px
+}
+.vierkant29{
+    background-color:white;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: -2835px;
+    left:155px;
+    border-radius: 100px
+}
+.pagina2{
+    background-color: #b3c8bd;
+    margin: 100px;}
+/*start text*/
+#text2{
+    top: -500px;
+    left: 290px;
+}
