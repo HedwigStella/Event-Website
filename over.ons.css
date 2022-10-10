@@ -24,7 +24,6 @@ label.logo{
 }
 nav ul{
   
-  
   margin-right: 20px;
 }
 nav ul li{
@@ -38,6 +37,7 @@ nav ul li a{
   color: #6d5951;
   font-size: 17px;
   text-transform: uppercase;
+
 }
 .btn{
   background-color: #6d5951;
@@ -54,13 +54,14 @@ nav ul li a{
 
 }
 
-
 /* Container needed to position the overlay. Adjust the width as needed */
-.container {
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
     position: relative;
     width: 100%;
   }
-  
+
   /* Make the image to responsive */
   .image {
     width: 250px;
@@ -74,7 +75,7 @@ nav ul li a{
   
   /* The overlay effect (full height and width) - lays on top of the container and over the image */
   .overlay {
-    position: absolute;
+    position: relative;
     bottom: 0;
     left: 0;
     right: 0;
@@ -85,7 +86,8 @@ nav ul li a{
     border-radius: 125px;
     transform: scale(0);
     transition: .3s ease;
-    float: left;
+    display: flex;
+    flex-wrap: wrap;
   }
   
   /* When you mouse over the container, the overlay text will "zoom" in display */
@@ -95,7 +97,7 @@ nav ul li a{
   
   /* Some text inside the overlay, which is positioned in the middle vertically and horizontally */
   .text {
-    color: #6d5951;
+    color: #ffffff;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: absolute;
@@ -104,3 +106,5 @@ nav ul li a{
     transform: translate(-50%, -50%);
     text-align: center;
   }
+
+  
