@@ -53,6 +53,26 @@ nav ul li a{
     top: -5px;
     left: 100px;
 }
+.vierkant{
+    background-color:#d3ebdf;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top:100px;
+    left: 250px;
+    box-shadow: 3px 3px  #97beaa;
+    border-radius: 300px;
+}
+.vierkant2{
+    background-color:#cdbbb3;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: -190px;
+    left: 850px;
+    box-shadow: 3px 3px  #A17C6B;
+    border-radius: 300px;
 
+}
 
 
