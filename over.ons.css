@@ -73,9 +73,8 @@ nav ul li a{
   /* The overlay effect (full height and width) - lays on top of the container and over the image */
   .overlay {
     position: relative;
-    bottom: 20px;
+    bottom: -10px;
     left: -60px;
-    right: -50px;
     background-color: #6d5951;
     overflow: hidden;
     width: 265px;
