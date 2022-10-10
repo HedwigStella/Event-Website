@@ -55,17 +55,14 @@ nav ul li a{
 }
 
 /* Container needed to position the overlay. Adjust the width as needed */
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    position: relative;
-    width: 100%;
-  }
-
+.container {
+  position: relative;
+  width: 100%
+}
   /* Make the image to responsive */
   .image {
-    width: 250px;
-    height: 250px;
+    width: 260px;
+    height: 260px;
     border-radius: 125px;
     position: relative;
     top: -20px;
@@ -76,18 +73,16 @@ nav ul li a{
   /* The overlay effect (full height and width) - lays on top of the container and over the image */
   .overlay {
     position: relative;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    bottom: 20px;
+    left: -60px;
+    right: -50px;
     background-color: #6d5951;
     overflow: hidden;
-    width: 255px;
-    height: 255px;
+    width: 265px;
+    height: 265px;
     border-radius: 125px;
     transform: scale(0);
     transition: .3s ease;
-    display: flex;
-    flex-wrap: wrap;
   }
   
   /* When you mouse over the container, the overlay text will "zoom" in display */
@@ -107,4 +102,26 @@ nav ul li a{
     text-align: center;
   }
 
+#yasmine {
+  position: relative;
+  top: 100px;
+  left: -140px;
+}
   
+#hedwig {
+  position: relative;
+  top: -165px ;
+  left: 220px ;
+}
+
+#dania {
+  position: relative;
+  top: -430px;
+  left: 570px;
+}
+
+#luca {
+  position: relative;
+  top: -700px;
+  left: 920px;
+}
