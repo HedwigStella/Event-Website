@@ -183,7 +183,32 @@ left: 1100px;
 
 #tekst_yasmine {
   color:  #b8a99c;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   position: relative;
   top: -2995px;
-  left: 40px;
+  left: 105px;
+}
+
+#tekst_hedwig {
+  color: #9d8978;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  top: -3022px;
+  left: 470px;
+}
+
+#tekst_dania {
+  color: #82654e;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  top: -3050px;
+  left: 830px;
+}
+
+#tekst_luca {
+  color: #5b4838;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  top: -3080px;
+  left: 1190px;
 }
