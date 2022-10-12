@@ -397,3 +397,8 @@ form{
     cursor: pointer;
 }
 
+#instagram {
+    position: relative;
+    top: -750px;
+    left: 420px;
+}
