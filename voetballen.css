@@ -100,7 +100,10 @@ font-family: sans-serif;}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+<<<<<<< Updated upstream
   border-radius: 5%;
+=======
+>>>>>>> Stashed changes
 }
 
 .container {
@@ -118,9 +121,8 @@ font-family: sans-serif;}
 }
 
 .button {
-  outline: 0;
   display: inline-block;
-  border-radius: 20px;
+  border:0;
   padding: 8px;
   color: white;
   background-color:#719895;
