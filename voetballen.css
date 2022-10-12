@@ -100,7 +100,7 @@ font-family: sans-serif;}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  border-radius: 125px;
+  border-radius: 5%;
 }
 
 .container {
@@ -127,5 +127,9 @@ font-family: sans-serif;}
   text-align: center;
   cursor: pointer;
   width: 100%;
+  border: #21371c;
+}
+.voetbal {
+  border-radius: 5%;
 }
 
