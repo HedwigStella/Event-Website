@@ -100,6 +100,7 @@ font-family: sans-serif;}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 125px;
 }
 
 .container {
@@ -117,9 +118,9 @@ font-family: sans-serif;}
 }
 
 .button {
-  border: none;
   outline: 0;
   display: inline-block;
+  border-radius: 20px;
   padding: 8px;
   color: white;
   background-color:#719895;
@@ -127,3 +128,4 @@ font-family: sans-serif;}
   cursor: pointer;
   width: 100%;
 }
+
