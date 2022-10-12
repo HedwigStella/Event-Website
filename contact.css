@@ -354,8 +354,45 @@ main{
     font-size: large;
 }
 #page2{
-    background-color: #8bb6a0;
-    width: 100%;
-    height: 50%;
+    background-color: #6F9682;
+    width: 1525px;
+    height: 900px;
+    position: absolute;
+    top: 800px;
+}
+.contactbox{
+    background-color: #ffffff;
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    top:920px ;
+    left: 500px;
+    border-radius: 20px;
+}
+form{
+    margin: 35px;
+}
+.input-field{
+    width:400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right:10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.textarea-field{
+    height: 150px;
+}
+.btn1{
+    border-radius: 20px;
+    color:white;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #356758;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
 }
 
