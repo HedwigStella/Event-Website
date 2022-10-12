@@ -50,7 +50,7 @@ nav ul li a{
   transform: .4s;
   position: relative;
   top: -5px;
-  left: 100px;
+  left: 0px;
 
 }
 
@@ -211,4 +211,24 @@ left: 1100px;
   position: relative;
   top: -3080px;
   left: 1190px;
+}
+
+#bruin_vlak {
+  background-color: #DFD6CE;
+  width: 1525px;
+  height: 900px;
+  position: absolute;
+  top: 1250px;
+}
+
+#header {
+  background-color: #a2877b;;
+  padding: 50px;
+  margin-top: 1000px;
+  border-radius: 20px;
+  position:absolute;
+  top: 1350px;
+  left: 600px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: large;
 }
