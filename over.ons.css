@@ -101,19 +101,16 @@ nav ul li a{
   top: 70px;
   left: -130px;
 }
-  
 #hedwig {
   position: relative;
   top: -197px ;
   left: 230px ;
 }
-
 #dania {
   position: relative;
   top: -465px;
   left: 590px;
 }
-
 #luca {
   position: relative;
   top: -729px;
@@ -129,7 +126,6 @@ width: 300px;
 top: -680px;
 left: 50px;
 }
-
 #tekstvak_hedwig {
   background-color: #BFAC9C;
 position: relative;
@@ -139,7 +135,6 @@ width: 300px;
 top: -1280px;
 left: 401px;
 }
-
 #tekstvak_dania {
   background-color: #9E826B;
 position: relative;
@@ -149,7 +144,6 @@ width: 300px;
 top: -1874px;
 left: 752px;
 }
-
 #tekstvak_luca {
   background-color: #7B6451;
 position: relative;
@@ -163,15 +157,12 @@ left: 1100px;
 #overlay1 {
   background-color: #DFD6CE;
 }
-
 #overlay2 {
   background-color: #BFAC9C;
 }
-
 #overlay3 {
   background-color: #9E826B;
 }
-
 #overlay4 {
   background-color: #7B6451;
 }
@@ -183,7 +174,6 @@ left: 1100px;
   top: -2995px;
   left: 105px;
 }
-
 #tekst_hedwig {
   color: #9d8978;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -191,7 +181,6 @@ left: 1100px;
   top: -3022px;
   left: 470px;
 }
-
 #tekst_dania {
   color: #82654e;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -199,7 +188,6 @@ left: 1100px;
   top: -3050px;
   left: 830px;
 }
-
 #tekst_luca {
   color: #5b4838;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -216,14 +204,31 @@ left: 1100px;
   top: 1250px;
 }
 
-#header {
-  background-color: #a2877b;
-  padding: 50px;
-  margin-top: 1000px;
-  border-radius: 20px;
-  position:absolute;
-  top: 1350px;
-  left: 600px;
+#kleinstukje_yasmine{
+  color:  #b8a99c;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: large;
+  position: relative;
+  top: -3050px;
+  left: 80px;
+}
+#kleinstukje_hedwig{
+  color: #9d8978;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  top: -3183px;
+  left: 434px;
+}
+#kleinstukje_dania{
+  color: #82654e;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  top: -3375px;
+  left: 790px;
+}
+#kleinstukje_luca {
+  color: #5b4838;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  top: -3526px;
+  left: 1140px;
 }
