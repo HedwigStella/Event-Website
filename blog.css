@@ -57,7 +57,7 @@ nav ul li a{
 
     
     #i1 {width: 200px;
-    margin: 50px;}
+    margin: 70px;}
 
     #i2{width: 230px; 
     left: 200px;
@@ -97,7 +97,13 @@ left: 1170px;}
 
 #s3{top: -240px;left: 200px; ;}
 
-.text{top: -750px;
+#s4{ top: -350px; 
+left: 700px;}
+
+#s5{left: 1180px;
+top: -450px;}
+
+.text{top: -950px;
     left: 245px;
     font-size: 20px;
     font-family: arial, sans-serif;
@@ -105,11 +111,28 @@ left: 1170px;}
 
 #text1{font-size: 20px;
     font-family: arial, sans-serif;
-top: -760px;
+top: -960px;
 left: 730px;}
 
 
 #text2{font-size: 20px;
     font-family: arial, sans-serif;
-top: -770px;
+top: -970px;
 left: 1195px;}
+
+
+#text3{font-size: 20px;
+    font-family: arial, sans-serif;
+top: -570px;
+left: 235px;}
+
+
+#text4{font-size: 20px;
+    font-family: arial, sans-serif;
+top: -600px;
+left: 735px;}
+#text5{font-size: 20px;
+    font-family: arial, sans-serif;
+top: -620px;
+left: 1215px;}
+
