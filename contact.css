@@ -51,8 +51,8 @@ nav ul li a{
     border-radius: 40px;
     transform: .4s;
     position: relative;
-    top: -5px;
-    left: 100px;
+    top: -50px;
+    left: 1270px;
 }
 .vierkant{
     background-color:#b88f6b;
@@ -407,4 +407,16 @@ form{
     position: relative;
     top: -585px;
     left: -190px;
+}
+
+#mail {
+    position: relative;
+    top: -1103px;
+    left: -201px;
+}
+
+#twitter {
+    position: relative;
+    top: -930px;
+    left: 420px;
 }
