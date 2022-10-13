@@ -393,6 +393,12 @@ form{
 
 #instagram {
     position: relative;
-    top: -3090px;
-    left: 920px;
+    top: -750px;
+    left: 420px;
+}
+
+#facebook {
+    position: relative;
+    top: -585px;
+    left: -190px;
 }
