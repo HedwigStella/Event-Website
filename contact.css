@@ -91,7 +91,6 @@ nav ul li a{
     left: 260px;
     border-radius: 300px;
 }
-/*middle circle green*/
 .vierkant5{
     background-color:#b3d9c5 ;
     width: 200px;
@@ -138,9 +137,7 @@ nav ul li a{
     left: 675px;
     border-radius: 100px;
 }
-/*end middle circle green*/
 
-/*start beige small circle */
 .vierkant10{ 
     background-color:#b88f6b ;
     width: 120px;
@@ -232,9 +229,7 @@ nav ul li a{
         left:686px;
         border-radius: 100px;
     }
-/*end small circles beige*/
 
-/*start small circles green*/
 .vierkant20{ 
     background-color:#356758 ;
     width: 120px;
@@ -325,7 +320,6 @@ nav ul li a{
     left:155px;
     border-radius: 100px
 }
-/*texts*/
 #main1{
     color: white;
     top: 35%;
@@ -399,6 +393,12 @@ form{
 
 #instagram {
     position: relative;
-    top: -3090px;
-    left: 920px;
+    top: -750px;
+    left: 420px;
+}
+
+#facebook {
+    position: relative;
+    top: -585px;
+    left: -190px;
 }
