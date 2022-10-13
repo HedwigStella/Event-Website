@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 *{
@@ -11,7 +11,7 @@ body {
   position: relative;
 }
 .btn{
-  background-color:#8aa7a5 ;
+  background-color:#7ead98 ;
   color: white;
   text-decoration: none;
   border: 2px solid transparent;
@@ -24,7 +24,7 @@ body {
   left: 100px;
 }
 nav{
-  background:#406865;
+  background:#92bbad;
   height: 90px;
   width: 100%;
 }
@@ -99,7 +99,7 @@ nav ul li a{
   }
   
   .openbtn:hover {
-    background-color: #5E827F ;
+    background-color: #5e8276 ;
   }
   
   #main {
@@ -112,16 +112,13 @@ nav ul li a{
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
   }
-  #square{
-    background-color:white;
-    width: 530px;
-    height: 390px;
-    position: relative;
-    top: 40px;
-    left: 480px;
-    box-shadow: 20px 20px 70px black;
-  }
 
+.imagee{
+  position: absolute;
+  top: 190px;
+  left: 320px;
+  border-radius: 30px;
+}
  
 
  
