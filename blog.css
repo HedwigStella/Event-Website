@@ -68,11 +68,48 @@ top: -40px;}
 top: -30px;
 left:450px ;}
 
-#sercle{width: 100px;
+#i4{width: 200px;
+top: 390px;
+left: -700px;}
+
+#i5{width: 210px; top:380px;
+left: -440px}
+
+#i6{width: 200px;
+top: 110px;
+left: 1000px;}
+
+
+
+.sercle{width: 100px;
     height: 100px;
     border-radius: 300px;
-   background-color: beige;
-   top: -100px;
+   background-color: rgb(237, 231, 231);
+   top: -390px;
    left: 220px;
 }
-.text{}
+
+#s1{top: -480px;
+left: 700px;}
+
+#s2{top: -565px;
+left: 1170px;}
+
+#s3{top: -240px;left: 200px; ;}
+
+.text{top: -750px;
+    left: 245px;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    }
+
+#text1{font-size: 20px;
+    font-family: arial, sans-serif;
+top: -760px;
+left: 730px;}
+
+
+#text2{font-size: 20px;
+    font-family: arial, sans-serif;
+top: -770px;
+left: 1195px;}
