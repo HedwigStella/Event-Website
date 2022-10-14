@@ -360,7 +360,7 @@ main{
     width: 450px;
     height: 450px;
     position: absolute;
-    top:920px ;
+    top:900px ;
     left: 500px;
     border-radius: 20px;
 }
@@ -374,6 +374,8 @@ form{
     padding-left: 10px;
     padding-right:10px;
     border: 1px solid #777;
+    position: relative;
+    top:-680px;
     border-radius: 14px;
     outline: none;
 }
@@ -386,6 +388,8 @@ form{
     margin-top: 18px;
     padding: 10px;
     background-color: #356758;
+    position: relative;
+    top: -670px;
     font-size: 12px;
     border: none;
     cursor: pointer;
@@ -405,12 +409,16 @@ form{
 
 #mail {
     position: relative;
-    top: -940px;
+    top: -925px;
     left: -201px;
 }
 
 #twitter {
     position: relative;
-    top: -760px;
+    top: -745px;
     left: 420px;
+}
+#facebook {
+    position: relative;
+    top: -930px;
 }
